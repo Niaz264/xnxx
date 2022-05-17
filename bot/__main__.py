@@ -144,7 +144,7 @@ help_string_telegraph = f'''<br>
 help = Telegraph(access_token=telegraph_token).create_page(
         title='Niaz Cloud Zone',
         author_name='Niaz',
-        author_url='https://t.me/bearzap',
+        author_url='https://t.me/niaz_ahsan',
         html_content=help_string_telegraph,
     )["path"]
 
